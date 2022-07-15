@@ -3,3 +3,4 @@
 3
 4
 delete 6
+delete 7
