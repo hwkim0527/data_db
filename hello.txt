@@ -4,3 +4,4 @@
 4
 delete 6
 delete 7
+delete 8
